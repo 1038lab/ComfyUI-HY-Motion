@@ -9,6 +9,7 @@ diffusers>=0.26.3
 transformers>=4.53.3
 safetensors>=0.5.3
 bitsandbytes>=0.49.0
+omegaconf>=2.3.0
 
 numpy>=1.24.0,<2.0
 scipy>=1.10.0
