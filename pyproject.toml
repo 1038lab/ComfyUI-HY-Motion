@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI-HY-Motion"
-description = "ComfyUI Custom Node for Tencent Motion"
+description = "ComfyUI Custom Node for Tencent Motion."
 version = "0.0.1"
 license = {file = "LICENSE"}
 
