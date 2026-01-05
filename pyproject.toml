@@ -1,0 +1,16 @@
+[project]
+name = "ComfyUI-HY-Motion"
+description = "ComfyUI Custom Node for Tencent Motion"
+version = "0.0.1"
+license = {file = "LICENSE"}
+
+dependencies = ["torchdiffeq>=0.2.5", "transforms3d>=0.4.2", "omegaconf>=2.3.0", "accelerate>=0.30.0", "huggingface_hub>=0.30.0", "bitsandbytes>=0.42.0","fbxsdkpy==2020.1.post2"]   
+
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-HY-Motion"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-HY-Motion"
+Icon = ""
